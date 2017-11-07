@@ -15,8 +15,8 @@
  다행히 당신은 모든 사람이 함께 하고 싶은 사람이기에 새로운 TF 멤버로 조인하게 되었다.<br/> 
  신규 프로젝트에서 해당 프로젝트의 컨텐츠 관리 개발을 맡게 되었다. <br/>
  
-  협업자A : 배너에는 4가지 종류가 있는데요.. 블라블라.. 노출요소는 다음과 같아요.<br/> <br/>
-   ![Image of Sample](https://github.com/withearth/sample/blob/master/sample.png)
+  협업자A : 배너에는 4가지 종류가 있는데요.. 블라블라.. 노출요소는 다음과 같아요.<br/>
+   ![Image of Sample](https://github.com/withearth/sample/blob/master/image/sample.png)
   <br/>
   당신 : 엇, 비슷한데 조금씩 다르네요..?<br/>
   협업자A: 네, 그렇죠. 오픈 후에 XX개가 더 추가 될 수도 있어요.<br/> 
