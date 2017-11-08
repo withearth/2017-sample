@@ -1,4 +1,4 @@
-# TRIM (template is reduce more work!)
+# TRIM (Templates reduce inefficient management)
 
 ## 제목 : 템플릿 기반 컨텐츠 관리툴   
 
